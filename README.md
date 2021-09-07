@@ -1,2 +1,4 @@
 # CS-111-Matrix-Manipulation
-This is the project program I coded at Boston University in the Fall of 2019. This program creates a display menu on the console, followed with a default
+This is the project program I coded at Boston University in the Fall of 2019. This program creates a display menu on the console, followed with a default matrix that the user can perform a series of additions/mulitplcation factors to them. This code also allows for an entirely new matrix to be produced, provided that it is a 2D array that is input.
+
+Looking back at this code, this is a very simple code that can be further upgraded to do a lot of things. For example, an extension that would be cool to look into adding is seeing whether or not it is possible to perform Gaussian Elimation on the matrix to find an answer to said matrix. Another would be to determine linear independence of the matrix, or seeing if the columns form an orthogonal basis. There are many wasy that this code can be further extended to find many solutions for future probelms involving matrices, and this would be a lot of fun to work on. 
